@@ -1,6 +1,6 @@
 # King Me!
 ![Image](https://github.com/user-attachments/assets/19667848-d171-4a9e-b2e0-1cba845a8c3c)
- Jogo de tabuleiro desenvolvido no pi da faculdade..
+
 
 ## 💻Sobre o Projeto
 King Me! é  um jogo que mescla elementos de estratégia, blefe e movimento tático, imergindo os jogadores em um cenário fictício onde devem conduzir personagens por um castelo até a posição mais elevada, o trono. Durante o jogo, os jogadores precisam não só manipular peças de maneira inteligente, mas também enganar seus adversários através de votos e escolhas estratégicas, criando uma experiência dinâmica e imprevisível.
