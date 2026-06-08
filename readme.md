@@ -1,5 +1,5 @@
 # King Me!
-![Board King Me!](board_king_me!.jpeg)
+![Board King Me!](imagens/board_king_me!.jpeg)
 
 
 ## 💻Sobre o Projeto
