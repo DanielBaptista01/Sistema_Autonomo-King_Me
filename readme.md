@@ -1,5 +1,5 @@
 # King Me!
-![Board King Me!](imagens/board_king_me!.jpeg)
+![Board King Me!](Sistema_Autônomo_PI_III/imagens/board_king_me!.jpeg)
 
 
 ## 💻Sobre o Projeto
